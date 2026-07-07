@@ -58,7 +58,7 @@ An interactive banking analytics dashboard built using **Power BI** to monitor t
 
 #### Risk Analysis
 
-<img width="1436" height="807" alt="Risk Analysis Dashboard " src="https://github.com/user-attachments/assets/6bbbb989-4a39-4779-b69d-59164c95962b" />
+<img width="1437" height="802" alt="Risk Analysis Dashboard (2)" src="https://github.com/user-attachments/assets/5a276bd3-d635-4bb6-ae26-5a0c0d060a01" />
 
 
 #### Customer Analysis
@@ -68,7 +68,7 @@ An interactive banking analytics dashboard built using **Power BI** to monitor t
 
 #### Transaction Performance Analysis
 
-<img width="1442" height="810" alt="Transaction Performance Analysis Dashboard " src="https://github.com/user-attachments/assets/7612e00c-5eda-4034-af98-457b0abba05f" />
+<img width="1435" height="803" alt="Transaction Performance Analysis " src="https://github.com/user-attachments/assets/e17f657c-c29b-478c-b6cb-5b4a264fe9e9" />
 
 
 
