@@ -22,5 +22,5 @@ I am a passionate and detail-oriented Data Analyst with hands-on experience in E
 
 
 ## Contact
-- LinkedIn: Add your LinkedIn URL : https://www.linkedin.com/in/sameer-mohammad-185268339
+- LinkedIn: Add your LinkedIn URL : 🔗 LinkedIn: https://www.linkedin.com/in/mohammadsameer2703
 - Email: sameermohammad2703@gmail.com
