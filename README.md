@@ -39,7 +39,7 @@ An interactive banking analytics dashboard built using **Power BI** to monitor t
 - Power BI
 - Power Query
 - DAX
-- Microsoft Excel
+- MYSQL Database
 
 ### 📊 Dashboard Pages
 
@@ -93,7 +93,7 @@ An interactive Power BI dashboard developed to analyze loan performance, client 
 - Power BI
 - Power Query
 - DAX
-- Microsoft Excel
+- MYSQL Database
 
 ### 📊 Dashboard Pages
 
