@@ -201,7 +201,7 @@ Business Recommendations
 
 > Add your verified certifications and courses here.
 
-* 📜 Data Analytics Certification — `Add Certification`
+* 📜 Data Analytics Certification — `ExcleR_Certified`
 * 📜 Microsoft Power BI — `Add Certification`
 * 📜 SQL Certification — `Add Certification`
 * 📜 Tableau — `Add Certification`
@@ -211,7 +211,7 @@ Business Recommendations
 # 📈 GitHub Statistics
 
 
-> Replace `Mohammad_Sameer` with your GitHub username.
+> `SameerMohammad27`
 
 ---
 
@@ -223,6 +223,8 @@ I am interested in opportunities where I can apply **Data Analytics, SQL, Excel,
 
 # 🤝 Let's Connect
 
+- LinkedIn: Add your LinkedIn URL : 🔗 LinkedIn: https://www.linkedin.com/in/mohammadsameer2703
+- Email: sameermohammad2703@gmail.com
 
 
 ⭐ **Thanks for visiting my GitHub profile. Feel free to explore my projects and connect with me.**
