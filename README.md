@@ -1,141 +1,228 @@
-# Data-Analyst-Portfolio
-Data Analyst Portfolio | Excel, Power BI, SQL &amp; Dashboard Projects
-# Mohammad Sameer | Data Analyst Portfolio
+# Hi 👋, I'm Mohammad Sameeruddin
 
-## About Me
+### Data Analyst | SQL | Power BI | Tableau | Excel
 
-I am a passionate and detail-oriented Data Analyst with hands-on experience in Excel, Power BI, SQL, Power Query, and Data Visualization. I enjoy transforming raw data into meaningful insights that support business decision-making and drive growth.
+I’m a Data Analyst focused on transforming raw data into meaningful insights through **data analysis, visualization, business intelligence, and interactive dashboards**.
 
-## Tools & Technologies
+I work with **Excel, SQL/MySQL, Power BI, Tableau, Power Query, Power Pivot, and DAX** to clean, analyze, model, and visualize data for better business decision-making.
 
-- Microsoft Excel
-- Power BI
-- SQL
-- Power Query
-- Power Pivot
-- DAX
-- Data Modeling
-- Dashboard Development
-- Power BI DAX
-- Business Intelligence
-- Data Analytics Projects
+---
 
+## 👨‍💻 About Me
 
-## Contact
-- LinkedIn: Add your LinkedIn URL : 🔗 LinkedIn: https://www.linkedin.com/in/mohammadsameer2703
-- Email: sameermohammad2703@gmail.com
+* 📊 Passionate about Data Analytics & Business Intelligence
+* 📈 Skilled in developing interactive dashboards and KPI reports
+* 🧹 Experienced with data cleaning and transformation
+* 🗄️ Working with SQL/MySQL for data querying and analysis
+* 📊 Building analytical solutions using Power BI, Tableau, and Excel
+* 🎯 Focused on converting data into clear and actionable insights
+* 🚀 Continuously developing my skills in SQL, Python, Statistics, and Power BI
 
-# 📊 Power BI Projects
+---
 
+# 🛠️ Technical Skills
+
+### 📊 Data Analytics
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-555555?style=flat-square)
+
+**Data Cleaning • Data Transformation • Exploratory Data Analysis • KPI Development**
+
+### 📈 Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square\&logo=tableau\&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-1F4E79?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square)
+![Power Pivot](https://img.shields.io/badge/Power_Pivot-217346?style=flat-square)
+
+**Dashboard Development • Data Modeling • Data Visualization • Business Intelligence**
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+**SQL • Data Extraction • Data Analysis • Joins • Aggregations**
+
+### 🐍 Programming
+
+![Python](https://img.shields.io/badge/Python-Basic-3776AB?style=flat-square\&logo=python\&logoColor=white)
+
+**Python • Pandas — Currently Learning**
+
+---
+
+# 📂 Featured Projects
 
 ## 💳 Credit & Debit Transaction Dashboard
 
-### 📌 Overview
+**Power BI | Power Query | DAX | MySQL**
 
-An interactive banking analytics dashboard built using **Power BI** to monitor transaction performance, customer behavior, branch performance, and transaction risk.
+An interactive banking analytics dashboard developed to analyze transaction performance, customer behavior, branch performance, and transaction risk.
 
-### 🛠️ Tools Used
+### Key Areas
 
-- Power BI
-- Power Query
-- DAX
-- MYSQL Database
+* Executive Overview
+* Risk Analysis
+* Customer Analysis
+* Transaction Performance Analysis
 
-### 📊 Dashboard Pages
+### Skills Demonstrated
 
-- Executive Overview
-- Risk Analysis
-- Customer Analysis
-- Transaction Performance Analysis
+* Data Cleaning
+* Data Transformation
+* Data Modeling
+* DAX
+* KPI Development
+* Dashboard Design
+* Banking Analytics
+* Business Intelligence
 
-### 📸 Screenshots
+🔗 **Repository:** Add GitHub Repository Link
 
-#### Executive Overview
-
-<img width="1436" height="805" alt="Executive Overview Dashboard" src="https://github.com/user-attachments/assets/8ba9a5e6-4e2e-4d5a-9e5d-7df79de94184" />
-
-
-
-#### Risk Analysis
-
-<img width="1437" height="802" alt="Risk Analysis Dashboard (2)" src="https://github.com/user-attachments/assets/5a276bd3-d635-4bb6-ae26-5a0c0d060a01" />
-
-
-#### Customer Analysis
-
-<img width="1437" height="803" alt="Customer Analysis Dashboard " src="https://github.com/user-attachments/assets/763fb180-317d-4799-a7f5-e1a8c19994f5" />
-
-
-#### Transaction Performance Analysis
-
-<img width="1435" height="803" alt="Transaction Performance Analysis " src="https://github.com/user-attachments/assets/e17f657c-c29b-478c-b6cb-5b4a264fe9e9" />
-
-
-
-### 🚀 Skills Demonstrated
-
-- Data Cleaning
-- Data Modeling
-- DAX
-- KPI Development
-- Dashboard Design
-- Banking Analytics
-
+---
 
 ## 🏦 Bank Loan Dashboard
 
-### 📌 Overview
+**Power BI | Power Query | DAX | MySQL**
 
-An interactive Power BI dashboard developed to analyze loan performance, client behavior, repayment trends, branch performance, and loan risk.
+An interactive financial analytics dashboard developed to analyze loan performance, client behavior, repayment trends, branch performance, and loan risk.
 
-### 🛠️ Tools Used
+### Key Areas
 
-- Power BI
-- Power Query
-- DAX
-- MYSQL Database
+* Executive Overview
+* Branch Performance
+* Client Analysis
+* Repayment Analysis
+* Risk Analysis
 
-### 📊 Dashboard Pages
+### Skills Demonstrated
 
-- Executive Overview
-- Branch Performance
-- Client Analysis
-- Repayment Analysis
-- Risk Analysis
+* Financial Analytics
+* Loan Performance Analysis
+* Repayment Analysis
+* Risk Analysis
+* KPI Development
+* Data Visualization
+* Dashboard Development
 
-### 📸 Screenshots
+🔗 **Repository:** Add GitHub Repository Link
 
-#### Executive Overview
+---
 
-<img width="1436" height="805" alt="Bank Loan Dashboard " src="https://github.com/user-attachments/assets/bd6143bf-40f9-4370-906a-03329a469b6f" />
+## 🏥 Healthcare Analytics Dashboard
+
+**Excel | Power BI | Tableau | SQL**
+
+A healthcare analytics project focused on analyzing patients, visits, treatments, chronic conditions, revenue, healthcare performance, and operational KPIs.
+
+### Key Areas
+
+* Patient Analysis
+* Visit Analysis
+* Treatment Performance
+* Chronic Condition Analysis
+* Revenue Analysis
+* Doctor Performance
+* Patient Demographics
+* Healthcare KPIs
+
+### Key KPIs
+
+`Total Patients` • `Total Visits` • `Success Rate` • `Revenue` • `Chronic Rate`
+
+### Skills Demonstrated
+
+* Healthcare Analytics
+* Data Cleaning
+* SQL Analysis
+* Data Visualization
+* KPI Development
+* Dashboard Development
+* Business Intelligence
+
+🔗 **Repository:** Add GitHub Repository Link
+
+---
+
+# 🔄 Data Analytics Workflow
+
+```text
+Raw Data
+    ↓
+Data Cleaning
+    ↓
+Data Transformation
+    ↓
+SQL / Data Analysis
+    ↓
+Data Modeling
+    ↓
+Dashboard Development
+    ↓
+Data Visualization
+    ↓
+Insights
+    ↓
+Business Recommendations
+```
+
+---
+
+# 📊 Analytics Capabilities
+
+| Area                  | Skills                                  |
+| --------------------- | --------------------------------------- |
+| Data Analysis         | Data Cleaning, Transformation, EDA      |
+| SQL                   | Queries, Joins, Aggregations, Filtering |
+| Excel                 | Pivot Tables, Charts, Dashboards        |
+| Power BI              | DAX, Power Query, Data Modeling, KPIs   |
+| Tableau               | Interactive Visualizations, Analysis    |
+| Business Intelligence | Reporting, KPI Analysis, Insights       |
+| Visualization         | Dashboards, Trends, Comparisons         |
+
+---
+
+# 📚 Currently Learning
+
+* Advanced SQL
+* Python for Data Analysis
+* Pandas
+* Statistics for Data Analysis
+* Advanced Power BI
+* Advanced DAX
+* Advanced Data Modeling
+
+---
+
+# 🏆 Certifications & Learning
+
+> Add your verified certifications and courses here.
+
+* 📜 Data Analytics Certification — `Add Certification`
+* 📜 Microsoft Power BI — `Add Certification`
+* 📜 SQL Certification — `Add Certification`
+* 📜 Tableau — `Add Certification`
+
+---
+
+# 📈 GitHub Statistics
 
 
-#### Branch Performance
+> Replace `Mohammad_Sameer` with your GitHub username.
 
-<img width="1436" height="803" alt="Branch Performance Dashboard " src="https://github.com/user-attachments/assets/9929c1a2-d321-4958-9d30-cd842fb49861" />
+---
 
+# 🎯 Career Focus
 
-#### Client Analysis
+I am interested in opportunities where I can apply **Data Analytics, SQL, Excel, Power BI, Tableau, and Business Intelligence** to solve real-world business problems and support data-driven decision-making.
 
-<img width="1432" height="803" alt="Client Analysis Dashboard " src="https://github.com/user-attachments/assets/adbd7094-a6a5-40f2-8767-de1b0a379d7d" />
+---
 
-
-#### Repayment Analysis
-
-<img width="1435" height="806" alt="Repayment Analysis Dashboard" src="https://github.com/user-attachments/assets/899739b2-c970-4a01-8134-47907e226350" />
+# 🤝 Let's Connect
 
 
-#### Risk Analysis
 
-<img width="1432" height="802" alt="Risk Analysis Dashboard" src="https://github.com/user-attachments/assets/8405ba65-736e-4b47-ae8d-c907b66ac27a" />
-
-
-### 🚀 Skills Demonstrated
-
-- Financial Analytics
-- Loan Performance Analysis
-- Risk Analysis
-- KPI Development
-- Data Visualization
-
-
+⭐ **Thanks for visiting my GitHub profile. Feel free to explore my projects and connect with me.**
